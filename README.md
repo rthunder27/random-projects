@@ -1,2 +1,2 @@
 # random-projects
-Collection of a few small projects.
+Collection of a few small projects to demonstrate basic coding competency to potential employers. Unfortunately none of these projects utilize any ML, although some of the econometric analysis in the Jeopardy project comes close.  Hopefully the fact that I wrote some python utilities to automate some tasks in my day-to-day life indicates that I am very familiar with python coding.
