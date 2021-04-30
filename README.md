@@ -7,4 +7,4 @@ Jeopardy contains a game theoretic analysis of wagering behavior in the final ro
 
 Media Directory Cleaner is a small program I wrote to help clean up a directory of TV shows. It renames the files to have the same convention, and moves them into a folder for each show (in case one theoretically occasionally downloads tv shows via torrents). Nothing technically impressive here, just some competent scripting.
 
-Overwatch is pretty sparse right now, it just contains the code for pulling some stats on a daily basis. I need to update this with some other code I wrote that pulls all the stats from the downloaded pages, and organizes it into a CSV, which I then feed into Tableau. I should link to my Tableau public page.
+Overwatch is pretty sparse right now, it just contains the code for pulling some stats on a daily basis. I need to update this with some other code I wrote that pulls all the stats from the downloaded pages, and organizes it into a CSV, which I then feed into Tableau. 
